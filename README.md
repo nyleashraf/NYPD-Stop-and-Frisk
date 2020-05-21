@@ -1,4 +1,4 @@
-# NYPD-Stop-and-Frisk
+# NYPD Stop and Frisk Analysis
 
 In this project, we examine the infamous policy of the New York Police Department, Stop and Frisk, between the years 2003 and 2012. Stop and frisk, in its implementation, was a two-step process: first, an individual was stopped by the police force and, if the individual was thought to be suspicious, would subsequently undergo frisking. Given over three-and-a-half million data points of police stops and 113 features, we obtained an accuracy of 68% with both the Decision Tree and Naive Bayes classfiers.
 
